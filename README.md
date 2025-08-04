@@ -3,14 +3,14 @@
 > *„Build things you’d actually use – and then make them nicer than they need to be.“*
 
 
-**Industriemechanikerr** | **Mobile App Developer in Weiterbildung** | **Fotograf mit Code-Fokus**
+**Industriemechanikerr** | **Mobile App Developer in Weiterbildung** | **Hobby Imker**
 
 ---
 
 ## 🚀 Über mich
  
-Hey! Ich bin Sebastian, 32 Jahre alt, aktuell in einer Weiterbildung zum Mobile App Developer (iOS & Android).  
-Früher war ich technischer Ansprechpartner bei verschiedenen Firmen – heute entwickle ich Apps mit SwiftUI und Kotlin.  
+Hey! Ich bin Robin Maly, 28 Jahre alt, aktuell in einer Weiterbildung zum Mobile App Developer (iOS & Android).  
+Früher war ich Industriemechaniker bei der Firma Siemens Energy – heute entwickle ich Apps mit SwiftUI und Kotlin.  
 Kreativität war schon immer mein Ding – egal ob als Fotograf oder Programmierer. Jetzt kombiniere ich Technik & Ästhetik in der App-Entwicklung.
 
 Mein Ziel? **Apps bauen, die nicht nur funktionieren, sondern Spaß machen.**  
@@ -56,7 +56,7 @@ Und dabei immer: clean code, gute UX und ein Schuss Humor.
 
 ## 📱 Bisherige Projekte
 
-### 🔍 Phindr – Die "All in One"-App für Modelle und Fotografen  
+### 🔍 Plantify – Die "All in One"-App für Modelle und Fotografen  
 SwiftUI · MVVM · Firebase  
 Eine App für Fotograf:innen, die gute Locations finden, speichern und bewerten möchten.    
 👉 [Code auf GitHub](#)
