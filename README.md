@@ -56,6 +56,8 @@ Und dabei immer: clean code, gute UX und ein Schuss Humor.
 
 ## 📱 Bisherige Projekte
 
+###🎮 RPG Console Game – The Battle Against Malvortas, the Undefeated
+
 ### 🔍 Plantify – Die "All in One"-App für Pflanzenliebhaber und Umweltbewusste Menschen  
 SwiftUI · MVVM · Firebase  
 Eine App um Pflanzen zu Handeln/tauschen, gute angebote in der Nähe zu finden, Hilfe Forum bei fragen.    
