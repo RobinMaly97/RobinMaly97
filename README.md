@@ -11,7 +11,7 @@
  
 Hey! Ich bin Robin Maly, 28 Jahre alt, aktuell in einer Weiterbildung zum Mobile App Developer (iOS & Android).  
 Früher war ich Industriemechaniker bei der Firma Siemens Energy – heute entwickle ich Apps mit SwiftUI und Kotlin.  
-Kreativität war schon immer mein Ding – egal ob als Fotograf oder Programmierer. Jetzt kombiniere ich Technik & Ästhetik in der App-Entwicklung.
+Kreativität war schon immer mein Ding – egal ob als Meckaniker oder Programmierer. Jetzt kombiniere ich Technik & Handwerk in der App-Entwicklung.
 
 Mein Ziel? **Apps bauen, die nicht nur funktionieren, sondern Spaß machen.**  
 Und dabei immer: clean code, gute UX und ein Schuss Humor.
@@ -56,9 +56,9 @@ Und dabei immer: clean code, gute UX und ein Schuss Humor.
 
 ## 📱 Bisherige Projekte
 
-### 🔍 Plantify – Die "All in One"-App für Modelle und Fotografen  
+### 🔍 Plantify – Die "All in One"-App für Pflanzenliebhaber und Umweltbewusste Menschen  
 SwiftUI · MVVM · Firebase  
-Eine App für Fotograf:innen, die gute Locations finden, speichern und bewerten möchten.    
+Eine App um Pflanzen zu Handeln/tauschen, gute angebote in der Nähe zu finden, Hilfe Forum bei fragen.    
 👉 [Code auf GitHub](#)
 
 ---
