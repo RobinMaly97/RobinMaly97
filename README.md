@@ -59,7 +59,7 @@ Und dabei immer: clean code, gute UX und ein Schuss Humor.
 ### 🔍 Plantify – Die "All in One"-App für Pflanzenliebhaber und Umweltbewusste Menschen  
 SwiftUI · MVVM · Firebase  
 Eine App um Pflanzen zu Handeln/tauschen, gute angebote in der Nähe zu finden, Hilfe Forum bei fragen.    
-👉 [Code auf GitHub](#)
+👉 [Code auf GitHub](https://github.com/RobinMaly97/Plantify)
 
 ---
 
@@ -79,5 +79,5 @@ Echte Projekte, echte Nutzer:innen und echtes Feedback.
 
 ## 📫 Kontakt
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sebastian-hufeld/)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/sebastian-hufeld/](https://www.linkedin.com/in/robin-maly-48227a335/)  
 🧾 Lebenslauf & weitere Infos → einfach anschreiben!
