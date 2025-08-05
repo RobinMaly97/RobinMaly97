@@ -60,7 +60,7 @@ Und dabei immer: clean code, gute UX und ein Schuss Humor.
 Swift
 A text-based terminal RPG project.
 
-👉 [Code auf GitHub]([https://github.com/RobinMaly97/Plantify](https://github.com/RobinMaly97/RPG_Game-Swift_Grundlagen_Abschlussprojekt)
+👉 [Code auf GitHub](https://github.com/RobinMaly97/RPG_Game-Swift_Grundlagen_Abschlussprojekt)
 
 ---
 
